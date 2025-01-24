@@ -6,3 +6,6 @@
   
 ## Python Web Development
 - **Portfolio Website** [portfolio-website]: a simple flask app with links to my accounts
+
+## GUI Desktop App
+-**Image Watermarking Desktop App** [image_watermarking_app.py]: a desktop app with a Graphical User Interface (GUI) where you can upload an image and use Python to add a watermark text created using Tkinter
