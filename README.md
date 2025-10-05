@@ -9,3 +9,4 @@
 
 ## GUI Desktop App
 - **Image Watermarking Desktop App** [image_watermarking_app.py]: a desktop app with a GUI where you can upload an image to add a watermark text created using Tkinter
+- **Typing Speed Test** [typing_speed_test.py]: a typing speed test created using Tkinter 
